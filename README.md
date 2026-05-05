@@ -60,7 +60,7 @@ end
 alias rm safe_rm
 
 ```
-
+activate using:
 ```
 source ~/.config/fish/config.fish
 ```
