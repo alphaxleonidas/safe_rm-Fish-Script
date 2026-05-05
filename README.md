@@ -3,7 +3,8 @@
 
 ```
 echo $SHELL
-
+```
+```
 nano ~/.config/fish/config.fish
 ```
 add this:
