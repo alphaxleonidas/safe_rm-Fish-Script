@@ -1,5 +1,6 @@
 # safe_rm-Fish-Script
-Fish script to prevent accidental deletion. For Bash Script, use : [Safe_rm-Bash-Script](https://github.com/alphaxleonidas/Safe_rm-Bash-Script)
+Fish script to prevent accidental deletion. 
+For Bash Script, use : [Safe_rm-Bash-Script](https://github.com/alphaxleonidas/Safe_rm-Bash-Script)
 
 ```
 echo $SHELL
