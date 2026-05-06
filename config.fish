@@ -18,7 +18,7 @@ function safe_rm
             set recursive true
         end
 
-        if string match -rq '^/($|etc|bin|usr|var|tmp|dev|proc|sys|BTRFSdrive|NTFSdrive)' -- $arg
+        if string match -rq '^/($|etc|bin|usr|var|tmp|dev|proc|sys)' -- $arg
             set critical true
         end
     end
