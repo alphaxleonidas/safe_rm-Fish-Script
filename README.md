@@ -8,7 +8,7 @@ For Bash Script, use : [safe_rm-Bash-Script](https://github.com/alphaxleonidas/s
 ```
 echo $SHELL
 ```
-If Output: /bin/fish , proceed with: 
+If output: /bin/fish , proceed with: 
 
 ```
 cd ~
