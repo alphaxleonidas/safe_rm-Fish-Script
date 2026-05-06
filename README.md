@@ -14,7 +14,7 @@ If Output: /bin/fish , proceed with:
 cd ~
 git clone https://github.com/alphaxleonidas/safe_rm-Fish-Script/
 cp -rv safe_rm-Fish-Script/config.fish ~/.config/fish/
-rm -rv Safe_rm-Fish-Script
+rm -rv safe_rm-Fish-Script
 source ~/.config/fish/config.fish
 ```
 This will activate the script.
