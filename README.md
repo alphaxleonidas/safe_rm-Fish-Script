@@ -1,6 +1,6 @@
 # safe_rm-Fish-Script
 Fish script to prevent accidental deletion. 
-For Bash Script, use : [Safe_rm-Bash-Script](https://github.com/alphaxleonidas/Safe_rm-Bash-Script)
+For Bash Script, use : [safe_rm-Bash-Script](https://github.com/alphaxleonidas/safe_rm-Bash-Script)
 
 
 # Configuration:
